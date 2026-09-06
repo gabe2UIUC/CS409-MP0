@@ -1,1 +1,33 @@
 /* Your CSS here. */
+.outer {
+    position: relative;
+}
+
+.card {
+    background-color: #52D2FF;
+    margin: 50px auto;
+    width: 800px;
+    padding: 15px 1em 100px;
+    text-align: center;
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+}
+
+.card h2 {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.card a {
+    display: block;
+    margin: 30px 0 35px;
+}
+
+.card p {
+    text-align: left;
+}
